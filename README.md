@@ -1,4 +1,5 @@
-<p align="center">
+<p ![Uploading Imagem1.jpg…]()
+align="center">
   <a href="https://getartcraft.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
